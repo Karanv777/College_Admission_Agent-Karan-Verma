@@ -15,6 +15,26 @@ An intelligent, domain-specific AI assistant built to guide prospective students
 
 ---
 
+## 🧠 Technologies Used
+- IBM Watsonx.ai Studio
+- IBM Granite Foundation Model (LLM)
+- Vector Index for Retrieval-Augmented Generation
+- PDF documents from RBI/NPCI & other related sourses
+- NLP (Natural Language Processing)
+- IBM Cloud Object Storage
+
+---
+
+## ☁️ IBM Cloud Services Used
+- Watsonx.ai Studio
+- IBM Granite Model
+- Watsonx Vector Index
+- IBM Cloud Lite Account
+- IBM Cloud IAM
+- IBM Cloud Object Storage
+
+---
+
 ## 📦 Installation
 
 ```bash
