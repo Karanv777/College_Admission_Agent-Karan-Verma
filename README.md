@@ -44,6 +44,26 @@ cd college-admission-agent
 ```
 ---
 
+## 📌 How to Run or Deploy
+- Log in to IBM Cloud Lite: https://cloud.ibm.com
+- Launch Watsonx.ai Studio
+- Create a new AI Agent
+- Upload PDFs to a Vector Index
+- Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
+- Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
+- Test in the preview panel
+- Deploy via web snippet, Streamlit, or custom web UI or app UI
+
+---
+
+## 🚀 How It Works
+- User inputs a query (e.g., “What are the best colleges for engineering?”)
+- IBM Granite LLM processes the language
+- Vector Index retrieves trusted content from uploaded PDFs
+- Agent responds with a grounded, natural-language answer
+
+---
+
 ## 🧪 Example Use Cases
 
 * A high school student asks: "What documents do I need for the Computer Science program?"
@@ -55,6 +75,7 @@ cd college-admission-agent
 ## 🎯 Future Scope
 
 * Voice-based interaction via Twilio or WebRTC
+* Whatsapp or Mobile SMS integration
 * SOP/essay coaching with structured AI feedback
 
 ---
@@ -67,4 +88,12 @@ cd college-admission-agent
 * Educators
 
 ---
+
+## 🔗 Useful Links
+- IBM Cloud Lite
+- IBM Watsonx.ai
+- IBM SkillsBuild
+
+---
+
 By Karan Verma 🧑‍💻
